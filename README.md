@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [blog.rinzhin.net](blog.rinzhin.net)
 
-- 💬 Ask me about **React, TypeSctipt, Django**
+- 💬 Ask me about **React, TypeScript, Django**
 
 - 📫 How to reach me **hello@rinzhin.net**
 
