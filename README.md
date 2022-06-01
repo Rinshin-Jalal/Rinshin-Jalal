@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinshin-jalal&show_icons=true&locale=en" alt="rinshin-jalal" /></p>
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinshin-jalal&" alt="rinshin-jalal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinshin-jalal&theme=dark" alt="rinshin-jalal" /></p>
 
 
 
