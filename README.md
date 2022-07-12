@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinshin-jalal&label=Profile%20views&color=0e75b6&style=flat" alt="rinshin-jalal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rinshin_jalal" target="blank"><img src="https://img.shields.io/twitter/follow/rinshin_jalal?logo=twitter&style=for-the-badge" alt="rinshin_jalal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xR1nz" target="blank"><img src="https://img.shields.io/twitter/follow/rinshin_jalal?logo=twitter&style=for-the-badge" alt="rinshin_jalal" /></a> </p>
 
 - 🌱 I’m currently learning **Three.js,Svelte and WebRTC**
 
