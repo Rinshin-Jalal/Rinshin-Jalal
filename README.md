@@ -2,12 +2,12 @@
 
 <a href="https://twitter.com/0xRinshin" target="blank"><img src="https://img.shields.io/twitter/follow/0xrinshin?logo=twitter&style=for-the-badge" alt="0xRinshin" /></a>
 [![Rinshin Jalal](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&labelColor=1ca0f1&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rinshin-jalal-09859021b/)](https://www.linkedin.com/in/rinshin-jalal-09859021b/)
-[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=for-the-badge)](https://github.com/ashleymavericks/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/Rinshin-Jalal?label=Follow&style=for-the-badge)](https://github.com/Rinshin-Jalal/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rinzhinjalal@gmail.com)](mailto:rinzhinjalal@gmail.com)
 
 ```json
 {
-    "ame": "Rinshin Jalal",
+    "name": "Rinshin Jalal",
     "version": "1.0.0", // The original Rinshin 🦊
     "description": "Self taught freelance fullstack app & web developer from kerala,India.",
     "experience": {
