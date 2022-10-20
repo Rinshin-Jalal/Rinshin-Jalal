@@ -68,8 +68,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/portalparrot.gif" width="30" height=""
 </div>
 
 <!-- inspired / copied from https://github.com/ashleymavericks/ashleymavericks/edit/master/README.md / https://github.com/Xunzhuo/Xunzhuo/edit/master/README.md The truth -->
