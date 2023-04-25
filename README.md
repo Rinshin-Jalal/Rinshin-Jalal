@@ -5,31 +5,29 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rinshin-Jalal?label=Follow&style=for-the-badge)](https://github.com/Rinshin-Jalal/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rinzhinjalal@gmail.com)](mailto:rinzhinjalal@gmail.com)
 
-```json
-{
-    "name": "Rinshin Jalal",
-    "version": "1.0.0", // The original Rinshin 🦊
-    "description": "Self taught freelance fullstack app & web developer from kerala,India.",
-    "experience": {
-        "freelancer": "2+ years"
-    }
-    "technologies": [
-      "React.js", "Next.js", 
-      "Astro", "Three.js"
-      "Solid.js", "Django",
-      "Node.js", "Express"
-      // and more....
-    ],
-    "hobbies":[
-      "chess",
-      "reading"
-    ]
-    "location": "Karuvarakundu, Malappuram, Kerala, India"
-}
+### self-taught full-stack app and web developer from Kerala. I've been freelancing for over 3 years.
+```py
+Tech = [ 
 
+  React.js,   Next.js,
+  Astro.js,   Three.js,
+  Solid.js,   Node.js,
+  Express.js, Django.py,
+  ChatGPT,    GPT4,
+  Langchain,  ... 
+  
+]
+
+Experience = [
+
+    { role: `Freelancer`, where: "Freelancing Platforms", experience: '3 years' },
+    
+    { role: `FullStack Developer`, where: "Shoplinky.com", experience: '1 years' },
+    
+    { role: `Founder`, where: "Dekstro.com - Web Dev Company", experience : "1 month" }
+    
+]
 ```
-
-
 <div align="center">
     <details>
         <summary><b>Metrics👇🏻</b></summary>
