@@ -1,9 +1,10 @@
 ![image](https://user-images.githubusercontent.com/88965873/197006948-facda65e-91b8-435c-88c2-2ed2ddbe00ea.png)
 
-<a href="https://twitter.com/0xitsrinz" target="blank"><img src="https://img.shields.io/twitter/follow/0xitsrinz?logo=twitter&style=for-the-badge" alt="0xitsrinz" /></a>
+<a href="https://twitter.com/Just_Me_Rinz" target="blank"><img src="https://img.shields.io/twitter/follow/0xitsrinz?logo=twitter&style=for-the-badge" alt="0xitsrinz" /></a>
 [![Rinshin Jalal](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&labelColor=1ca0f1&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rinshin-jalal-09859021b/)](https://www.linkedin.com/in/rinshin-jalal-09859021b/)
 [![GitHub followers](https://img.shields.io/github/followers/Rinshin-Jalal?label=Follow&style=for-the-badge)](https://github.com/Rinshin-Jalal/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rinzhinjalal@gmail.com)](mailto:rinzhinjalal@gmail.com)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFfklKOZW5E37EqtQKShuKg?style=for-the-badge)](https://www.youtube.com/channel/UCFfklKOZW5E37EqtQKShuKg)
 
 ### self-taught full-stack app and web developer from Kerala. I've been freelancing for over 3 years.
 ```py
