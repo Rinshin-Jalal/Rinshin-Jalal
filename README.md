@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rinzhinjalal@gmail.com)](mailto:rinzhinjalal@gmail.com)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFfklKOZW5E37EqtQKShuKg?style=for-the-badge)](https://www.youtube.com/channel/UCFfklKOZW5E37EqtQKShuKg)
 
-### self-taught full-stack app and web developer from Kerala. I've been freelancing for over 3 years.
+### Self-taught full-stack app / web developer from Kerala. been freelancing for over 3 years.
 ```py
 Tech = [ 
 
