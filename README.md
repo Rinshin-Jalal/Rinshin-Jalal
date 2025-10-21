@@ -34,10 +34,10 @@ Building AI-first experiences that feel invisible but hit hard
 | Role | Company | Duration |
 |------|---------|----------|
 | AI Builder | You+ App | Current |
-| Voice Tech Explorer | Voiceship & Voice.cab | Current |
-| FullStack Developer | Shoplinky.com | 1 year |
+| Voice Tech Explorer | Voiceship & Voice.cab | 3 months |
+| FullStack Developer | Shoplinky.com | 6 months |
 | Founder | Dekstro.com | 1 month |
-| Freelancer | Various Platforms | 3+ years |
+| Freelancer | Various Platforms | 5+ years |
 
 ## // CURRENT_PROJECTS
 
