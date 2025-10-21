@@ -44,14 +44,6 @@ Building AI-first experiences that feel invisible but hit hard
 ### [You+](https://getyouplus.com) `// Your Future Self. Calling You Daily.`
 *AI-powered productivity app with gamified habit building*
 
----
-
-## // SYSTEM_METRICS
-
-<img src="https://metrics.lecoq.io/Rinshin-Jalal?template=terminal&config.timezone=Asia/Kolkata&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false" />
-
----
-
 ## // CONTACT_PROTOCOLS
 
 <div align="center">
