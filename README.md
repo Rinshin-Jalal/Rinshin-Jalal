@@ -1,64 +1,23 @@
-<div align="center">
+# rinshin jalal
 
-# RINSHIN JALAL
+I build useful things for people. Applied AI from Kerala, India — agents, voice workflows, products that actually get used.
 
-*Fullstack Developer & AI Builder*
+## now
 
-</div>
+- MTS at [xoompark.co](https://xoompark.co)
+- running No Excuse Labs on the side — 4 products in 30 days
 
----
+## things
 
-```bash
-┌─[rinshin@matrix]─[~]
-└──╼ whoami
-Rinshin Jalal - Kerala, India
-Self-taught developer • 3+ years freelancing
-Building AI-first experiences that feel invisible but hit hard
-```
+| year | thing | status |
+| ---- | ----- | ------ |
+| 2026 | [BrainDump](https://getyouplus.com) | live |
+| 2026 | Liar Callout | live |
+| 2025 | [You+](https://getyouplus.com) | live |
+| 2024 | [VoiceShip](https://voiceship.talkforce.ai) | acquired |
 
----
+Built from zero, taken to acquisition. That's the pattern I'm chasing.
 
-## // TECH_STACK
+## contact
 
-```python
-{
-  "frontend": ["React.js", "Next.js", "Astro.js", "Three.js", "Solid.js", "TailwindCSS", "TypeScript"],
-  "backend": ["Node.js", "Express.js", "Django", "PostgreSQL", "Supabase"],
-  "ai_ml": ["ChatGPT", "GPT-4", "LangChain", "Voice AI", "RAG"],
-  "cloud": ["Cloudflare", "AWS"]
-}
-```
-
-## // EXPERIENCE
-
-| Role | Company | Duration |
-|------|---------|----------|
-| AI Builder | You+ App | Current |
-| Voice Tech Explorer | Voiceship & Voice.cab | 3 months |
-| FullStack Developer | Shoplinky.com | 6 months |
-| Founder | Dekstro.com | 1 month |
-| Freelancer | Various Platforms | 5+ years |
-
-## // CURRENT_PROJECTS
-
-### [You+](https://getyouplus.com) `// Your Future Self. Calling You Daily.`
-*AI-powered productivity app with gamified habit building*
-
-## // CONTACT_PROTOCOLS
-
-<div align="center">
-
-**hey@rinsh.in** • [**LinkedIn**](https://www.linkedin.com/in/rinshin-jalal/) • [**Twitter**](https://x.com/rinshin_jalal)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-┌─[system@status]─[~]
-└──╼ echo "Build AI-native apps that solve real pain points. Use voice, LLMs, and mobile to create delightful automations. Stay grounded in clarity, creativity, and clean execution."
-```
-
-</div>
+[hey@rinsh.in](mailto:hey@rinsh.in) · [linkedin](https://linkedin.com/in/rinshin-jalal) · [x](https://x.com/rinshin_jalal)
