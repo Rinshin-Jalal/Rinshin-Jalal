@@ -24,19 +24,6 @@ Applied AI from Kerala, India — agents, voice workflows, products that actuall
 
 ---
 
-## // things
-
-| year | thing | status |
-| ---- | ----- | ------ |
-| 2026 | [**BrainDump**](https://getyouplus.com) — voice-first productivity. One button: capture → task → timer. | `live` |
-| 2026 | **Liar Callout** — AI calls you at night to ask if you actually did the thing. | `live` |
-| 2025 | [**You+**](https://getyouplus.com) — future-self calling app. Cloned voice, twice-daily check-ins. | `live` |
-| 2024 | [**VoiceShip**](https://voiceship.talkforce.ai) — Shopify voice agent, built from zero. | `acquired` |
-
-Built from zero, taken to acquisition. That's the pattern I'm chasing.
-
----
-
 ## // stack
 
 `typescript` · `next.js` · `react native` · `node` · `postgres` · `supabase` · `langchain` · `voice ai` · `cloudflare`
