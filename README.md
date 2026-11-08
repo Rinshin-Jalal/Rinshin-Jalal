@@ -1,10 +1,7 @@
 <div align="center">
 
 <a href="https://window.rinsh.in/tap">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://window.rinsh.in/window.svg?theme=dark">
-    <img ismap src="https://window.rinsh.in/window.svg?theme=light" width="840" alt="A live pixel window into the hills of Kerala where I live. The sky follows the real time there, the weather is the real weather, and the window is lit when I'm up.">
-  </picture>
+  <img ismap src="https://window.rinsh.in/window.svg?v=2" width="840" alt="A live pixel window into the hills of Kerala where I live. The sky follows the real time there, the weather is the real weather, and the window is lit when I'm up.">
 </a>
 
 <sub>a live window into the hills where i live. the sky is the real time there, the rain is real rain, and the laptop glows when i've pushed recently.<br>
