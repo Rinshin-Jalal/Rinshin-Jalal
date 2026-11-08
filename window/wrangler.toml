@@ -7,7 +7,7 @@ routes = [{ pattern = "window.rinsh.in", custom_domain = true }]
 
 [[kv_namespaces]]
 binding = "STATE"
-id = "REPLACE_WITH_ID_FROM_wrangler_kv_namespace_create"
+id = "b37b976042cf48bbb796db56815b9204"
 
 [vars]
 GITHUB_USER = "Rinshin-Jalal"
