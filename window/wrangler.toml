@@ -1,0 +1,23 @@
+name = "rinshin-window"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+# Serve it from window.rinsh.in. Cloudflare creates the DNS record on deploy.
+routes = [{ pattern = "window.rinsh.in", custom_domain = true }]
+
+[[kv_namespaces]]
+binding = "STATE"
+id = "REPLACE_WITH_ID_FROM_wrangler_kv_namespace_create"
+
+[vars]
+GITHUB_USER = "Rinshin-Jalal"
+PROFILE_URL = "https://github.com/Rinshin-Jalal"
+SITE_URL = "https://rinsh.in"
+# Nilambur, in the Western Ghats: town-level, the same as your public profiles.
+LAT = "11.28"
+LON = "76.23"
+
+# Optional secrets (wrangler secret put NAME):
+#   NTFY_TOPIC    an ntfy.sh topic; callouts on a no-push day buzz your phone
+#   GITHUB_TOKEN  a fine-grained token with no permissions, for a higher rate limit
+#   IP_SALT       any random string, for hashing visitor IPs in rate limits
