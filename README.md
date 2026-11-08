@@ -23,7 +23,7 @@ i build useful things for people. applied ai from kerala: agents, voice, and pro
 
 `typescript` · `next.js` · `react native` · `node` · `postgres` · `supabase` · `langchain` · `voice ai` · `cloudflare`
 
-[rinsh.in](https://rinsh.in) · [hey@rinsh.in](mailto:hey@rinsh.in) · [linkedin](https://linkedin.com/in/rinshin-jalal) · [x](https://x.com/rinshin_jalal)
+[rinsh.in](https://rinsh.in) · [hey@rinsh.in](mailto:hey@rinsh.in) · [linkedin](https://linkedin.com/in/rinshin) · [x](https://x.com/rinshin_jalal)
 
 <details>
 <summary><sub>how the window works</sub></summary>
